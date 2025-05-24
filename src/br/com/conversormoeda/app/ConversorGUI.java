@@ -12,6 +12,7 @@ public class ConversorGUI {
         frame.setResizable(false);  //
 
         JPanel panel = new JPanel();
+        panel.setBorder(BorderFactory.createEmptyBorder(10, 10, 10, 10));
         panel.setLayout(new GridLayout(8, 1, 5, 5));
 
         JTextField valorField = new JTextField();

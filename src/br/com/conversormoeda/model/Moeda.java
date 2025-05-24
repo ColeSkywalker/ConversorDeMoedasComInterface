@@ -1,4 +1,4 @@
-package main;
+package br.com.conversormoeda.model;
 
 public class Moeda {
     private double conversion_rate;
