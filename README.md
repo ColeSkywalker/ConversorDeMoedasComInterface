@@ -1,6 +1,10 @@
 # Conversor de Moedas
 Aplicativo de conversão de moedas feito em Java, com interface simples utilizando Swing. O programa permite converter valores entre diversas moedas da América Latina e o Brasil, utilizando dados reais obtidos através da **API Exchange Rate**.
-![image](https://github.com/user-attachments/assets/e60dc1b0-36d8-49b1-8b06-6209f5db43dc)
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e60dc1b0-36d8-49b1-8b06-6209f5db43dc" alt="Interface do Aplicativo" />
+</p>
+
 
 
 ## 🚀 Tecnologias utilizadas
